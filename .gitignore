@@ -1,0 +1,4 @@
+.idea
+!data/test_image.png
+data/*
+output/*
